@@ -68,6 +68,6 @@ password : <TODO, Da Zhu confirm if it is needed>
 1. 代码： 含代码的war包或者工程的zip包
 2. 可运行Docker image： Dockerfile以及所依赖的文件（如例子中的demo.war and server.xml)
 3. 部署到IBM和页面的展示视频
-4. <TODO: PPT要求： 成员介绍，分工， 项目周期，项目设计，技术架构，UI介绍，项目难点及改进思路，对IBM ECO cloud 的使用感受，致谢等>
-5. 将所有内容打包成为zip文件， 格式：<TODO: 确定格式： 例如：学校名称-项目名称-项目代号-版本-时间.zip>
-6. 提交文件到指定位置<TODO: ftp? email? site???，需要确认>
+4. PPT要求： 成员介绍，分工， 项目周期，项目设计，技术架构，UI介绍，项目难点及改进思路，对Eco Cloud的使用感受，致谢等
+5. 将所有内容打包成为zip文件
+6. 提交文件到指定位置
