@@ -47,21 +47,10 @@ v1: Pulling from floydljy/contestibmdemo
 ……
 Status: Downloaded newer image for floydljy/contestibmdemo:v1
 ……
-
 记录下docker image 的repository和tag信息， docker 平台注册用户的username以及password
-example:
-Docker images repository: floydljy/contestibmdemo:v1
-username :<TODO, Da Zhu confirm if it is needed>
-password : <TODO, Da Zhu confirm if it is needed>
+
 
 第四步：  将应用部署到ECO cloud 平台上并运行
-观看提供的视频，视频地址： <TODO：视频上传地址？>。 使用IBM ECO Cloud提供的视频教程进行部署
-<TODO： Da Zhu provide>
-<需要给学生提供： Ecocloud 账号, 如何获得账号，如何管理>
-
-要求，部署过程需要录制视频，登陆到页面后需要在视频中进行讲解
-视频格式要求如下：
-< TODO: 具体要求未定，谁定 ？比如，多长时间，使用的工具，分辨率等>
 
 第五步：提交成果
 提交内容：
